@@ -6,7 +6,13 @@ using namespace std;
 
 int main()
 {
-    
+    int m1;
+    double m;
+    cin >> m1;
+    m = m1 * 1.6;
+    printf("%.1f", m);
+    cout << endl;
+
 }
 
 // 執行程式: Ctrl + F5 或 [偵錯] > [啟動但不偵錯] 功能表

@@ -6,7 +6,8 @@ using namespace std;
 
 int main()
 {
-    int m1;
+    int m1 = 0;
+    cin >> m1;
     switch (m1) 
     {
         case 1:

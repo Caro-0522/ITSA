@@ -8,27 +8,27 @@ int main()
 {
     int m1 = 0;
     cin >> m1;
-    switch (m1) 
+    switch (m1)
     {
         case 12:
         case 1:
         case 2:
-            cout << "Winter";
+            cout << "Winter" << endl;
             break;
         case 3:
         case 4:
         case 5:
-            cout << "Spring";
+            cout << "Spring" << endl;
             break;
         case 6:
         case 7:
         case 8:
-            cout << "Summer";
+            cout << "Summer" << endl;
             break;
         case 9:
         case 10:
         case 11:
-            cout << "Autumn";
+            cout << "Autumn" << endl;
             break;
     }
     return 0;

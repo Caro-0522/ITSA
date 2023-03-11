@@ -10,45 +10,28 @@ int main()
     cin >> m1;
     switch (m1) 
     {
+        case 12:
         case 1:
-            cout << "Winter";
-            break;
         case 2:
             cout << "Winter";
             break;
         case 3:
-            cout << "Spring";
-            break;
         case 4:
-            cout << "Spring";
-            break;
         case 5:
             cout << "Spring";
             break;
         case 6:
-            cout << "Summer";
-            break;
         case 7:
-            cout << "Summer";
-            break;
         case 8:
             cout << "Summer";
             break;
         case 9:
-            cout << "Autumn";
-            break;
         case 10:
-            cout << "Autumn";
-            break;
         case 11:
             cout << "Autumn";
             break;
-        case 12:
-            cout << "Winter";
-            break;
     }
-
-    
+    return 0;
 }
 
 // 執行程式: Ctrl + F5 或 [偵錯] > [啟動但不偵錯] 功能表

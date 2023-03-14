@@ -5,7 +5,7 @@
 1 英哩= 1.6 公里
 
 ### 程式碼：
-ˋˋˋ
+```
 #include <iostream>
 using namespace std;
 int main()
@@ -17,4 +17,4 @@ int main()
     printf("%.1f", m); **印出來要有小數點後一位**
     cout << endl; *換行*
 }
-ˋˋˋ
+```

@@ -8,7 +8,6 @@
 ˋˋˋ
 #include <iostream>
 using namespace std;
-
 int main()
 {
     int m1; *設一個變數m1*
